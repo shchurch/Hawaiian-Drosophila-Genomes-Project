@@ -1,7 +1,7 @@
 ---
-name: Research Scientist
-title: Genomics Specialist
-bio: Specializing in genome assembly and annotation.
+name: Co-Founder / Co-PI
+title: Principal Investigator
+bio: Co-leading research on Hawaiian Drosophila genomics and evolution.
 photo: /images/placeholder-person.svg
 order: 2
 ---

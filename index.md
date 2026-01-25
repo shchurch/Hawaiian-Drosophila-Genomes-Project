@@ -1,6 +1,9 @@
 ---
 layout: default
 title: Home
+hero_image: /images/hero-placeholder.svg
+hero_title: Hawaiian Drosophila Genomes Project
+hero_subtitle: Advancing our understanding of evolution through genomic research on Hawaii's remarkable fruit fly diversity
 ---
 
 <section id="about" class="section">
@@ -87,10 +90,30 @@ title: Home
                     <p>Custom scripts and pipelines for data analysis</p>
                     <a href="#" class="btn btn-disabled" tabindex="-1">Coming Soon</a>
                 </div>
-                <div class="data-link-card">
-                    <h3>Publications</h3>
-                    <p>Research articles and preprints from the project</p>
-                    <a href="#" class="btn btn-disabled" tabindex="-1">Coming Soon</a>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section id="publications" class="section section-alt">
+    <div class="container">
+        <h2>Publications</h2>
+        <div class="publications-content">
+            <p>
+                Research findings and discoveries from the Hawaiian Drosophila Genomes Project 
+                are published in peer-reviewed journals. Publications will be listed here as they 
+                become available.
+            </p>
+            <div class="publications-list">
+                <div class="publication-item">
+                    <h3 class="pub-title">Example Publication Title</h3>
+                    <p class="pub-authors">Authors et al.</p>
+                    <p class="pub-journal"><em>Journal Name</em>, Year. DOI: <a href="#">10.xxxx/example</a></p>
+                    <p class="pub-description">Brief description of the publication content and findings.</p>
+                </div>
+                
+                <div class="publication-placeholder">
+                    <p><em>Publications from this project will be added here as they become available.</em></p>
                 </div>
             </div>
         </div>

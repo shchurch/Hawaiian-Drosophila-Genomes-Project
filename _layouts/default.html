@@ -10,6 +10,17 @@
 <body>
     {% include header.html %}
     
+    {% if page.hero_image %}
+    <div class="hero-image" style="background-image: url('{{ page.hero_image | relative_url }}');">
+        <div class="hero-overlay">
+            <div class="container">
+                <h1 class="hero-title">{{ page.hero_title | default: site.title }}</h1>
+                <p class="hero-subtitle">{{ page.hero_subtitle | default: site.description }}</p>
+            </div>
+        </div>
+    </div>
+    {% endif %}
+    
     <main>
         {{ content }}
     </main>

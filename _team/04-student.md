@@ -1,7 +1,7 @@
 ---
-name: Graduate Student
-title: PhD Candidate
-bio: Researching evolutionary genomics and adaptation.
+name: Bioinformatician
+title: Computational Biology
+bio: Developing analysis pipelines and bioinformatics tools.
 photo: /images/placeholder-person.svg
 order: 4
 ---
