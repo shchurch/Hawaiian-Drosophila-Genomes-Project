@@ -3,6 +3,7 @@ description: Research on Hawaiian fruit fly genomics
 theme: minima
 url: "https://shchurch.github.io"
 baseurl: "/Hawaiian-Drosophila-Genomes-Project"
+github_url: "https://github.com/shchurch/Hawaiian-Drosophila-Genomes-Project"
 
 # Build settings
 markdown: kramdown

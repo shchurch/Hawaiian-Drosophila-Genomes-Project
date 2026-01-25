@@ -272,7 +272,6 @@ nav a:hover {
     background: var(--medium-gray);
     color: var(--dark-gray);
     cursor: not-allowed;
-    pointer-events: none;
 }
 
 /* Footer Styles */

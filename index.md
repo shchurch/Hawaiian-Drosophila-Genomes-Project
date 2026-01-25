@@ -75,22 +75,22 @@ title: Home
                 <div class="data-link-card">
                     <h3>Genome Assemblies</h3>
                     <p>High-quality genome assemblies for Hawaiian Drosophila species</p>
-                    <a href="#" class="btn btn-disabled">Coming Soon</a>
+                    <a href="#" class="btn btn-disabled" tabindex="-1">Coming Soon</a>
                 </div>
                 <div class="data-link-card">
                     <h3>Sequence Data</h3>
                     <p>Raw sequencing data and processed datasets</p>
-                    <a href="#" class="btn btn-disabled">Coming Soon</a>
+                    <a href="#" class="btn btn-disabled" tabindex="-1">Coming Soon</a>
                 </div>
                 <div class="data-link-card">
                     <h3>Analysis Tools</h3>
                     <p>Custom scripts and pipelines for data analysis</p>
-                    <a href="#" class="btn btn-disabled">Coming Soon</a>
+                    <a href="#" class="btn btn-disabled" tabindex="-1">Coming Soon</a>
                 </div>
                 <div class="data-link-card">
                     <h3>Publications</h3>
                     <p>Research articles and preprints from the project</p>
-                    <a href="#" class="btn btn-disabled">Coming Soon</a>
+                    <a href="#" class="btn btn-disabled" tabindex="-1">Coming Soon</a>
                 </div>
             </div>
         </div>
