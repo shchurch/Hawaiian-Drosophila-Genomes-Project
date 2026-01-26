@@ -11,13 +11,13 @@ hero_subtitle: Evolutionary genomics of Hawaiian flies for conservation and disc
         <h2>About the Project</h2>
         <div class="about-content">
             <p>
-                The Hawaiian <em>Drosophila</em> Genomes Project is a collaborative effort to sequence, assembly, and compare the
-                genomes of every one of the estimated 1,000 endemics species of flies in the family Drosophilidae 
-                found on the Hawaiian Islands. This evolutionary radiation represents one of the most remarkable examples 
+                The Hawaiian <em>Drosophila</em> Genomes Project is a collaborative effort to sequence, assemble, and compare the
+                genomes of all of the estimated 1,000 species of flies in the family Drosophilidae 
+                endemic to the Hawaiian Islands. This evolutionary radiation is one of the most remarkable examples 
                 of biological diversification in our 
-                modern world. It provides an unparalleled opportunity to understand how evolution acts upon the genome to 
+                modern world, and it provides an unparalleled opportunity to understand how evolution acts upon the genome to 
                 generate novel morphological, ecological, and behavioral traits. At the same time, threats from habitat loss
-                and invasive species, among others, present an urgent need to understand and conserve this unique biodiversity.
+                and invasive species, among others, present an urgent need to monitor and conserve this unique biodiversity.
                 Our objectives are to build a comprehensive and publicly available genomic resource that will unlock our 
                 understanding of the genetic basis of evolutionary innovation while providing new tools to aid in their conservation
                 for generations to come.
