@@ -1,4 +1,4 @@
-# Hawaiian Drosophila Genomes Project
+# Hawaiian _Drosophila_ Genomes Project
 
 Static website for the Hawaiian Drosophila Genomes Project built with Jekyll.
 

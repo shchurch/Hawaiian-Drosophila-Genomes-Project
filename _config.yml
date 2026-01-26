@@ -1,4 +1,4 @@
-title: Hawaiian Drosophila Genomes Project
+title: Hawaiian <em>Drosophila</em> Genomes Project
 description: Research on Hawaiian fruit fly genomics
 theme: minima
 url: "https://shchurch.github.io"
@@ -9,6 +9,13 @@ github_url: "https://github.com/shchurch/Hawaiian-Drosophila-Genomes-Project"
 markdown: kramdown
 plugins:
   - jekyll-feed
+  - jekyll-scholar
+
+scholar:
+  style: apa
+  source: ./_bibliography
+  bibliography: references.bib
+  bibliography_template: bibliography
 
 # Collections
 collections:
