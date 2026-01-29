@@ -109,7 +109,7 @@ nav a:hover {
     left: 0;
     right: 0;
     bottom: 0;
-    background: linear-gradient(135deg, rgba(47, 79, 62, 0.82) 0%, rgba(31, 53, 41, 0.82) 100%);
+    background: linear-gradient(135deg, rgba(47, 79, 62, 0.65) 0%, rgba(31, 53, 41, 0.65) 100%);
     display: flex;
     align-items: center;
     justify-content: center;
@@ -503,8 +503,8 @@ footer p {
         font-size: 1.75rem;
     }
 
-    .about-content p,
-    .data-content p {
+    .about-content p {
+        padding: 0 1rem;
         font-size: 1rem;
     }
 }

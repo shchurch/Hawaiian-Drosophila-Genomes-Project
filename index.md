@@ -8,7 +8,7 @@ hero_subtitle: Evolutionary genomics of Hawaiian flies for conservation and disc
 
 <section id="about" class="section">
     <div class="container">
-        <h2>About the Project</h2>
+        <h2>About the project</h2>
         <div class="about-content">
             <p>
                 The Hawaiian <em>Drosophila</em> Genomes Project is a collaborative effort to sequence, assemble, and compare the
